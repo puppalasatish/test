@@ -1,7 +1,6 @@
-#include "space.h"
-#include "uncrustify_types.h"
-#include "chunk_list.h"
+#include <iostream>
 
+using namespace std;
 
 int  main(){
 	
